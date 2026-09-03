@@ -18,7 +18,7 @@ I design and ship end-to-end products: responsive interfaces, typed application 
 - **AI products and automation** — practical LLM integrations, n8n workflow automation, system integrations, and product experiences built around AI capabilities.
 - **Full-stack applications** — Next.js, React, TypeScript, Python, APIs, authentication, data models, and production-ready interfaces.
 - **Data and cloud engineering** — Databricks, Apache Spark, Delta Lake, AWS, containerized workloads, and reliable delivery pipelines.
-- **Cloud delivery** — Docker, CI/CD, Cloudflare Workers, Vercel, and Netlify deployment workflows.
+- **Cloud delivery** — Docker, CI/CD, Linux VPS deployment and operations—primarily Ubuntu—across AWS, Google Cloud, Vultr, and Hostinger, plus Cloudflare Workers, Vercel, and Netlify workflows.
 
 ## Core stack
 
@@ -43,6 +43,8 @@ I design and ship end-to-end products: responsive interfaces, typed application 
 **Cloud & Delivery**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
