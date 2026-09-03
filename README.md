@@ -15,10 +15,10 @@
 
 I design and ship end-to-end products: responsive interfaces, typed application logic, APIs, automations, AI-assisted workflows, data foundations, and cloud delivery.
 
-- **AI products and automation** — practical LLM integrations, workflow automation, and product experiences built around AI capabilities.
+- **AI products and automation** — practical LLM integrations, n8n workflow automation, system integrations, and product experiences built around AI capabilities.
 - **Full-stack applications** — Next.js, React, TypeScript, Python, APIs, authentication, data models, and production-ready interfaces.
 - **Data and cloud engineering** — Databricks, Apache Spark, Delta Lake, AWS, containerized workloads, and reliable delivery pipelines.
-- **Cloud delivery** — Docker, CI/CD, Cloudflare Workers, and Vercel-oriented deployment workflows.
+- **Cloud delivery** — Docker, CI/CD, Cloudflare Workers, Vercel, and Netlify deployment workflows.
 
 ## Core stack
 
@@ -33,6 +33,7 @@ I design and ship end-to-end products: responsive interfaces, typed application 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_%26_LLMs-7C3AED?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square)
@@ -46,6 +47,7 @@ I design and ship end-to-end products: responsive interfaces, typed application 
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ## Selected work
 
