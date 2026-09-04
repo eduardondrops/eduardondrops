@@ -56,7 +56,6 @@ I design and ship end-to-end products: responsive interfaces, typed application 
 | Project | Product and engineering focus | Stack |
 | --- | --- | --- |
 | [Navy Sistemas](https://github.com/eduardondrops/navy-sistemas) | Production company website with a full-stack-ready architecture and Cloudflare delivery | Next.js · React · TypeScript · Cloudflare Workers |
-| [Vibe Queue Up](https://github.com/eduardondrops/vibe-queue-up) | Collaborative content planning with workspaces, daily queues, invitations, uploads, and extension integration | TanStack Start · React · TypeScript · Supabase · Cloudflare |
 | [Fortalece Seguros](https://github.com/eduardondrops/fortalece-seguros) | Responsive automotive insurance landing experience focused on quotation conversion | HTML · CSS · JavaScript |
 
 ## Current direction
